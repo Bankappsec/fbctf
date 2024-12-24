@@ -1,4 +1,4 @@
-FROM ubuntu:xenial-20210114
+FROM ubuntu:24.10
 
 ENV HOME /root
 
